@@ -4,6 +4,7 @@
 
 - <b>Django</b>
   - [DjangoMed - application for booking and swaping doctor visits](https://github.com/KrzysztofPy/Django_final_project/tree/master/DjangoMed)
+  - [Charity_donations - application for donating items to charity organisations](https://github.com/KrzysztofPy/Charity_donations)
 
 <!--
 **KrzysztofPy/KrzysztofPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
