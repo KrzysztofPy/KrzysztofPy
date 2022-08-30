@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Django</b>
-  - [DjangoMed - application for booking and swaping doctor visits](https://github.com/)
+  - [DjangoMed - application for booking and swaping doctor visits](https://github.com/KrzysztofPy/Django_final_project/tree/master/DjangoMed)
 
 <!--
 **KrzysztofPy/KrzysztofPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
