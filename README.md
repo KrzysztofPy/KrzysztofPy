@@ -6,7 +6,7 @@
   - [DjangoMed - application for booking and swaping doctor visits](https://github.com/KrzysztofPy/Django_final_project/tree/master/DjangoMed)
   - [Charity_donations - application for donating items to charity organisations](https://github.com/KrzysztofPy/Charity_donations)
 - <b>Flask</b>
-  -[The game2001 - Application for the simple game](https://github.com/KrzysztofPy/game2001)
+  - [The game2001 - Application for the simple game](https://github.com/KrzysztofPy/game2001)
 <!--
 **KrzysztofPy/KrzysztofPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
